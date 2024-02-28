@@ -14,6 +14,8 @@ public static void main (String [] args)
 	System.out.println("No of staff -" + staff);
 	System.out.println("No of batches -" + batches);
 	System.out.println("No of Floors -" + noFloors);
+	System.out.println("No of Lifts -" + lifts);
+	System.out.println("No of Subjects -" + subjects);
 
 }
 
