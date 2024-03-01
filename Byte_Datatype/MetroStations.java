@@ -1,3 +1,4 @@
+// Always follow convenstions for class and variable name
 class MetroStations {
     public static void main(String[] args) {
         byte puneMetroStations = 40;
