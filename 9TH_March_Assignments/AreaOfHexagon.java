@@ -11,6 +11,6 @@ class AreaOfHexagon
 
 		double area = 3*((2*2)/2)*(side * side);
 		System.out.println("The Area of Hexagon Is :"+ area);
-		sc.close();
+		
 	}
 }
