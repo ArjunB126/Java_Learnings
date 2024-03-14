@@ -1,3 +1,6 @@
+// [ Doubt Ask To Sir ]
+
+
 import java.util.Scanner;
 
 class RunwayLength {
@@ -14,3 +17,7 @@ class RunwayLength {
         System.out.println("The Minimum Runway Length Should Be: " + lengthOfRunway + " meters");
     }
 }
+
+
+// 	Expected Answer : 514.286 Speed : 60 Acceleration: 3.5    Output: The Minimum Runway Length Should Be: 0.10208333333333333 meters
+
