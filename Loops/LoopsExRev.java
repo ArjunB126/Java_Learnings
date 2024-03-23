@@ -13,7 +13,7 @@ class LoopsExRev{
 		}
 
 		for (char ch = '9'; ch>= 48 ;ch -- ) {
-			System.out.println(ch + " ");
+			System.out.print(ch + " ");
 			
 		}
 
