@@ -13,6 +13,7 @@ class ArmstrongNumber {
             length++;
             number/=10;
         }
+
         while(duplicate>0) 
         { 
             int reminder = duplicate % 10;
@@ -20,10 +21,12 @@ class ArmstrongNumber {
             for (int i = 1; i <= length; i++) {
                 power = power * reminder;
             }
+
             sum += power; 
 
             duplicate /= 10; 
         }
+        
         if (sum == duplicate_1) {
             System.out.println("The Given Number is Armstrong Number");
         } else {
